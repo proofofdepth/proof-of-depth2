@@ -1,3 +1,3 @@
 # Proof of Depth
 
-Professional ROV inspections backed by blockchain.
+A blockchain-certified ROV inspection project led by a U.S. Navy diver.
