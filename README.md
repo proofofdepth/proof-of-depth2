@@ -1,3 +1,3 @@
 # Proof of Depth
 
-A blockchain-certified ROV inspection project led by a U.S. Navy diver.
+Blockchain-certified underwater inspections for government, energy, environmental, and commercial sectors.

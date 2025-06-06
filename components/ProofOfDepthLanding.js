@@ -57,9 +57,10 @@ export default function ProofOfDepthLanding() {
         <div>
           <h3 style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Who We Serve</h3>
           <ul style={{ color: '#555' }}>
-            <li>Harbors & port authorities</li>
-            <li>Environmental & marine NGOs</li>
-            <li>Web3 impact investors & DAO members</li>
+            <li><strong>Government:</strong> DOTs, public works, military harbors</li>
+            <li><strong>Energy:</strong> Oil rigs, wind farms, subsea cables</li>
+            <li><strong>Environmental:</strong> NGOs, marine researchers, reef monitors</li>
+            <li><strong>Commercial:</strong> Port authorities, shipping terminals, contractors</li>
           </ul>
         </div>
       </section>
